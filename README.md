@@ -8,5 +8,5 @@
 
 ## User Input
 
-## Insignas
+## Insignias
 ![WhatsApp Image 2022-08-16 at 11 21 38 PM](https://user-images.githubusercontent.com/54123075/185040977-0ae435f7-4c63-4343-8caf-47e463e1cb30.jpeg)
