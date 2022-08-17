@@ -5,3 +5,8 @@
 
 ## DiceRoller
 ![WhatsApp Image 2022-08-16 at 11 08 10 PM](https://user-images.githubusercontent.com/54123075/185040269-a94f0da2-7867-4c99-ba3e-6beb215dd0b2.jpeg)
+
+## User Input
+
+## Insignas
+![WhatsApp Image 2022-08-16 at 11 21 38 PM](https://user-images.githubusercontent.com/54123075/185040977-0ae435f7-4c63-4343-8caf-47e463e1cb30.jpeg)
